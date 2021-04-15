@@ -8,10 +8,10 @@
 git clone https://github.com/Quality-XP-Development-SESSA/sentinel-flutter-plugin.git
 ```
 
--   Make sure you have flutter installed, and run:
+-   Make sure you have flutter installed, and run under sentinel_flutter_plugin:
 
 ```sh
-cd sentinel-flutter-plugin && cd sentinel_flutter_plugin && flutter run
+flutter create -t plugin --platforms <platforms>
 ```
 
 ### Run test.
