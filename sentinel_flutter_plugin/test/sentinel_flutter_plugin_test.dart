@@ -18,6 +18,6 @@ void main() {
   });
 
   test('getPlatformVersion', () async {
-    expect(await SentinelFlutterPlugin.platformVersion, '41');
+    expect(await SentinelFlutterPlugin.platformVersion, '40');
   });
 }
